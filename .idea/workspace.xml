@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acb88a0c-fd0c-4e4c-a64e-40a0d0a58b81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/controller/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/AdminAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/CryptoWalletOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/RegularAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/view/CryptoExchangeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/controller/CryptoExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/controller/CryptoExchangeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/controller/UsuarioController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Cryptocurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Cryptocurrency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/User.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Wallet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/view/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/view/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/view/MainMenu.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,27 +31,33 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Greysvm99"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Greysvm99&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Greysvm99/CryptoExchangeSystem_GlobantProyect.git",
-    "accountId": "e0c04004-07ac-4a0f-8b9c-986649de14a9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Greysvm99/CryptoExchangeSystem_GlobantProyect.git&quot;,
+    &quot;accountId&quot;: &quot;e0c04004-07ac-4a0f-8b9c-986649de14a9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="MavenRunConfiguration" name="CryptoExchangeSystem_GlobantProyect [compile]" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lMFCs26MvIGc8DiDwIvIGMqaY5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,9 +66,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CryptoExchangeSystem.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Maven.CryptoExchangeSystem_GlobantProyect [compile].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "init-data",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,9 +79,29 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/NAYRO/IdeaProjects/CryptoExchangeSystem_GlobantProyect/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CryptoExchangeSystem" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.CryptoExchangeSystem_GlobantProyect.Main" />
+      <module name="CryptoExchangeSystem_GlobantProyect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,22 +118,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724981918369</updated>
-      <workItem from="1724981919526" duration="11118000" />
+      <workItem from="1724981919526" duration="38547000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

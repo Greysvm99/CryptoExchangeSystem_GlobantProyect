@@ -1,37 +1,39 @@
 package com.crypto.exchange.model;
 
 public class Cryptocurrency {
+    private String symbol;
     private String name;
-    private String simbolo;
+    private double price;
+    private double quantityAvailable;
 
-    // Constructor
-    public Cryptocurrency(String name, String simbolo) {
+    public Cryptocurrency(String symbol, String name, double price, double quantityAvailable) {
+        this.symbol = symbol;
         this.name = name;
-        this.simbolo = simbolo;
+        this.price = price;
+        this.quantityAvailable = quantityAvailable;
     }
 
-    // Getters y Setters
+    public String getSymbol() {
+        return symbol;
+    }
+
     public String getName() {
         return name;
     }
 
-    public void setName(String Name) {
-        this.name = name;
+    public double getPrice() {
+        return price;
     }
 
-    public String getSimbolo() {
-        return simbolo;
+    public void setPrice(double price) {
+        this.price = price;
     }
 
-    public void setSimbolo(String simbolo) {
-        this.simbolo = simbolo;
+    public double getQuantityAvailable() {
+        return quantityAvailable;
     }
 
-    @Override
-    public String toString() {
-        return "Cryptocurrency{" +
-                "nombre='" + name + '\'' +
-                ", simbolo='" + simbolo + '\'' +
-                '}';
+    public void setQuantityAvailable(double quantityAvailable) {
+        this.quantityAvailable = quantityAvailable;
     }
 }
