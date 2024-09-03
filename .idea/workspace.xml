@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb88a0c-fd0c-4e4c-a64e-40a0d0a58b81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/AdminAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/CryptoWalletOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/RegularAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/view/CryptoExchangeView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/controller/CryptoExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/controller/CryptoExchangeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/controller/UsuarioController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Cryptocurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Cryptocurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/model/Wallet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crypto/exchange/view/MainMenu.java" beforeDir="false" />
-    </list>
+    <list default="true" id="acb88a0c-fd0c-4e4c-a64e-40a0d0a58b81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,11 +33,6 @@
     &quot;accountId&quot;: &quot;e0c04004-07ac-4a0f-8b9c-986649de14a9&quot;
   }
 }</component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="MavenRunConfiguration" name="CryptoExchangeSystem_GlobantProyect [compile]" />
-    </enabled-run-configurations>
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -64,28 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CryptoExchangeSystem.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Maven.CryptoExchangeSystem_GlobantProyect [compile].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "init-data",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/NAYRO/IdeaProjects/CryptoExchangeSystem_GlobantProyect/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CryptoExchangeSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CryptoExchangeSystem_GlobantProyect [compile].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;init-data&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/NAYRO/IdeaProjects/CryptoExchangeSystem_GlobantProyect/src/main/java/com/CryptoExchangeSystem_GlobantProyect/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
